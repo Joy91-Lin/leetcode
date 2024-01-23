@@ -1,3 +1,7 @@
+<h2><a href="https://leetcode.com/problems/two-sum/">1. Two Sum</a></h2>
+
+Notes:#hash-table 
+
 ### Intuition
 The Two Sum problem asks us to find two numbers in an array that sum up to a given target value. We need to return the indices of these two numbers.
 
@@ -16,6 +20,6 @@ The Two Sum problem asks us to find two numbers in an array that sum up to a giv
 7. If no solution is found, return an empty array or an appropriate indicator.
 This approach has a time complexity of O(n) since hash table lookups take constant time on average. It allows us to solve the Two Sum problem efficiently by making just one pass through the array.
 
-reference:https://leetcode.com/problems/two-sum/solutions/3619262/3-method-s-c-java-python-beginner-friendly
+reference : https://leetcode.com/problems/two-sum/solutions/3619262/3-method-s-c-java-python-beginner-friendly
 
 
